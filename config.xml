@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.TheBoardwalk"
+    version   = "1.0.0">
+  <icon src="icon.png" />
+	<gap:splash src="splash.png" />
+	<preference name="auto-hide-splash-screen" value="false" />
+
+<name>The Boardwalk</name>
+
+<description>
+Information about the Boardwalk bar and restaurant Woolacombe.
+</description>
+
+<author href="" email="m.samuel.kingston@live.co.uk">
+Your Name
+</author>
+
+</widget>
